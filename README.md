@@ -8,12 +8,24 @@
 
 ## Objectives
 
+
+#### Convert Raw Data to DataFrame
+![](Images/converted-raw-data_dataframe.png)
+
 Build a series of Scatter Plots to showcase the following relationships:
 
-* Temperature (F) vs. Latitude
-* Humidity (%) vs. Latitude
-* Cloudiness (%) vs. Latitude
-* Wind Speed (mph) vs. Latitude
+#### Temperature (F) vs. Latitude
+![](Images/City_Latitude_vs_Max_Temperature.png)
+
+#### Humidity (%) vs. Latitude
+![](Images/City_Latitude_vs_Humidity.png)
+
+#### Cloudiness (%) vs. Latitude
+![](Images/City_Latitude_vs_Cloudiness.png)
+
+#### Wind Speed (mph) vs. Latitude
+![](Images/City_Latitude_vs_Wind_Speed.png)
+
 
 The final notebook must:
 
